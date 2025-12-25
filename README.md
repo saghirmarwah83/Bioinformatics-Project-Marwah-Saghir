@@ -1,0 +1,5 @@
+Marwah Saghir 
+04032213038 
+Summary: This poster presents a systematic bioinformatics analysis of a target gene Arabidopsis thaliana chromosome:5 using sequence-based and comparative approaches. Starting from raw DNA sequence retrieval, key features such as ORFs, GC content, and conserved motifs were identified to predict gene functionality. Homologous sequences were analyzed to explore evolutionary relationships through phylogenetic analysis. Structural and functional annotations provide insights into the biological role of the gene. Overall, this study highlights the power of computational tools in understanding gene structure, function, and evolutionary significance, offering a strong foundation for future experimental validation. 
+Tools Used: NCBI Blastn ORF Finder Expasy UTR Scan RNA Fold ProtParam Pfam Predict Protein Target p Cello Clustal Omega STRING 
+I am grateful to my supervisor Dr. Samina Shakeel for their guidance and support during this study. I acknowledge the use of available bioinformatics databases and tools that made this analysis possible. I also thank my department for providing the necessary academic facilities.
